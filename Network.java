@@ -38,7 +38,6 @@ public class Network {
  }
  
  /**
-     * @param none
      * @pre true
      * @return number of stations
      */public int getNumStations(){return numStations;}
